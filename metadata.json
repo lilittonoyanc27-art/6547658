@@ -1,0 +1,6 @@
+{
+  "name": "Pasapalabra Español - Armenio",
+  "description": "Juego interactivo Pasapalabra con 27 preguntas en español y armenio con rosco circular interactivo y traducción al instante.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
